@@ -1,0 +1,17 @@
+# .gitignore
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+/artifacts-zk
+/cache-zk
+
+# misc
+.DS_Store
+.env
+*.log
